@@ -1,12 +1,13 @@
-<h1>LaraStarter</h1>
-LaraStarter is Laravel v10 starter template with AdminLTE 3 and Bootstrap 5. 
+<h1>laravel-berita</h1>
+laravel=berita is Laravel v10 starter template with AdminLTE 3 and Bootstrap 5. 
 
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/a0b50847-0c56-45ca-8344-4cbcec9707c9)
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/92cb9b0b-ca65-41a0-b63d-1e9856c686ab)
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/0754c01b-53ec-42a2-9c05-54fa7c5222e1)
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/4f4d11a1-1b0d-4b58-891f-d966a9fe6b61)
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/fc80ce1a-390d-4224-9346-7f764eeddf50)
-![image](https://github.com/muhazmi/lara-starter/assets/22718017/c82315bd-9fff-4c23-ba3d-abf139d24fe1)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/3bda3d0b-4220-4b8a-8265-210b685a6611)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/a34a22e0-d4c8-4b26-bc13-92f9022b9fe0)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/b81e959e-359b-4594-b0da-7695f7cfedda)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/ae8f8903-31ad-4714-9b71-4c7b45fee3c3)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/f5e8ed7e-2c82-47b8-9438-e8a3df3ecb64)
+![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/acdc3894-f88d-4b3e-868b-e344c9de7a50)
+
 
 <h2>Features</h2>
 <ul>
@@ -57,11 +58,9 @@ Or you can see all package that i've used in this repo from plugins in public > 
 
 <h2>User Login Credential</h2>
 <ul>
-    <li>Admin: email and password; amperakoding@gmail.com</li>
-    <li>Author: email and password; muhazmi@gmail.com</li>
+    <li>Admin: email and password; dinahariyanti48@gmail.com</li>
+    <li>Author: email and password; alexandra22@gmail.com</li>
 </ul>
 
 Do you have another suggestions? Star, fork, and create PR for this repo. Let's make this repo better!
 
-<h2>Wanna Work with Me?</h2>
-Let's talk: <a href="mailto: mail@muhazmi.my.id">mail@muhazmi.my.id</a>
