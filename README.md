@@ -1,5 +1,5 @@
 <h1>laravel-berita</h1>
-laravel=berita is Laravel v10 starter template with AdminLTE 3 and Bootstrap 5. 
+laravel-berita menggunakan framework laravael v10 dengan integrasi template AdminLTE 3 dan Bootstrap 5. 
 
 ![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/3bda3d0b-4220-4b8a-8265-210b685a6611)
 ![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/a34a22e0-d4c8-4b26-bc13-92f9022b9fe0)
@@ -9,11 +9,11 @@ laravel=berita is Laravel v10 starter template with AdminLTE 3 and Bootstrap 5.
 ![Image](https://github.com/Dina067/UAS_WebLanjut/assets/124496007/acdc3894-f88d-4b3e-868b-e344c9de7a50)
 
 
-<h2>Features</h2>
+<h2>Fitur</h2>
 <ul>
     <li>Laravel Breeze (Blade)</li>
-    <li>Spatie Permission v6 with multi role</li>
-    <li>Indonesian Region by Laravolt include: Province, City, District, Village</li>
+    <li>Spatie Permission v6 dengan multi role</li>
+    <li>Wilayah Indonesia dari Laravolt meliputi: Province, City, District, Village</li>
     <li>Dashboard Admin: CRUD Post, Category, Tag, User, Navigation, Permission, Role</li>
     <li>Dashboard Author: CRUD Post, Edit Profile</li>
 </ul>
@@ -21,7 +21,7 @@ laravel=berita is Laravel v10 starter template with AdminLTE 3 and Bootstrap 5.
 <h3>Layout</h3>
 Frontend: Bootstrap 5, Backend: AdminLTE 3
 
-<h3>Packages</h3>
+<h3>Paket</h3>
 <ul>
     <li>Yajra Datatable</li>
     <li>SweetAlert</li>
@@ -30,12 +30,12 @@ Frontend: Bootstrap 5, Backend: AdminLTE 3
     <li>Fontawesome 6</li>
 </ul>
 
-Or you can see all package that i've used in this repo from plugins in public > assets folder and composer.json file. But the plugins and packages are not all used, so you can see the actual one from layouts > app.blade.php and script.blade.php.
+Atau Anda dapat melihat semua paket yang saya gunakan dalam repo ini dari plugin di folder public > assets folder and composer.json file. Namun plugin dan paketnya belum semuanya terpakai, jadi Anda bisa melihat yang sebenarnya dari layouts > app.blade.php and script.blade.php.
 
-<h2>How to Install</h2>
+<h2>Cara Instalasi</h2>
 <ul>
-    <li>Make sure you are connected to internet and PHP 8.1 installed.</li>
-    <li>Open your terminal / cmd / powershell to this project and run these commands:
+    <li>Pastikan Anda terhubung ke internet dan menginstal PHP 8.1.</li>
+    <li>Buka terminal / cmd / powershell Anda untuk proyek ini dan jalankan perintah ini:
         <ul>
             <li>composer install / composer update</li>
             <li>cp .env.example .env</li>
@@ -43,7 +43,7 @@ Or you can see all package that i've used in this repo from plugins in public > 
             <li>php artisan db:seed</li>
         </ul>
     </li>
-    <li>Setup SMTP Mail Credential (optional)
+    <li>Siapkan Kredensial Email SMTP (opsional)
         <ul>
             <li>MAIL_MAILER=</li>
             <li>MAIL_HOST=</li>
@@ -56,11 +56,11 @@ Or you can see all package that i've used in this repo from plugins in public > 
     </li>
 </ul>
 
-<h2>User Login Credential</h2>
+<h2>Kredensial Login Pengguna</h2>
 <ul>
-    <li>Admin: email and password; dinahariyanti48@gmail.com</li>
-    <li>Author: email and password; alexandra22@gmail.com</li>
+    <li>Admin: email dan password; dinahariyanti48@gmail.com , bismillah1</li>
+    <li>Author: email dan password; alexandra22@gmail.com , alexa123</li>
 </ul>
 
-Do you have another suggestions? Star, fork, and create PR for this repo. Let's make this repo better!
+Apakah anda memiliki saran lain untuk repo ini? Mari kembangkan repo ini menjadi lebih baik
 
